@@ -1,12 +1,8 @@
-<picture> <source media="(prefers-color-scheme: dark)" srcset="assets/dark_mode.svg" /> <source media="(prefers-color-scheme: light)" srcset="assets/light_mode.svg" /> <img alt="iamjahnvi's GitHub profile" src="assets/dark_mode.svg" /> </picture> 
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/iamjahnvi/iamjahnvi/main/assets/profile.svg" width="100%" alt="Jahnvi's GitHub profile"/>
-
-</div>
-
-<br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/light_mode.svg" />
+  <img alt="iamjahnvi's GitHub profile" src="assets/dark_mode.svg" width="100%" />
+</picture>
 
 <div align="center">
 
@@ -52,10 +48,10 @@ Currently exploring full-stack development, backend engineering, TypeScript, and
 
 ## `$ philosophy`
 
-> build it  
-> break it  
-> understand it  
-> improve it  
+> build it
+> break it
+> understand it
+> improve it
 > ship it
 
 ---
