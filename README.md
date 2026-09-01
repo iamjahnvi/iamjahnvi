@@ -46,14 +46,17 @@ Currently exploring full-stack development, backend engineering, TypeScript, and
 → exploring AI/LLM applications
 → learning to think more about architecture
 → looking for open-source opportunities
+```
 
-##`$ philosophy`
+## `$ philosophy`
 
 > build it  
 > break it  
 > understand it  
 > improve it  
 > ship it
+
+---
 
 <div align="center">
 
