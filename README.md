@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/profile.svg" width="100%" alt="Jahnvi's GitHub profile"/>
+<img src="https://raw.githubusercontent.com/iamjahnvi/iamjahnvi/main/assets/profile.svg" width="100%" alt="Jahnvi's GitHub profile"/>
 
 </div>
 
